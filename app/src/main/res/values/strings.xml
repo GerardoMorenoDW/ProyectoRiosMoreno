@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ProyectoRiosMoreno</string>
+    <string name="bienvenido_al_sistema_de_votaciones">Bienvenido al sistema de votaciones</string>
+    <string name="iniciar_sesion">Iniciar sesion</string>
+    <string name="cedula">Cedula</string>
+    <string name="ingresar">Ingresar</string>
 </resources>
