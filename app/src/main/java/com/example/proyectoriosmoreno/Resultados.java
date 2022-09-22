@@ -15,7 +15,6 @@ public class Resultados extends AppCompatActivity {
     TextView tv1;
     TextView tv2;
     TextView tv3;
-    TextView tv4;
     Button salir;
     @SuppressLint("SetTextI18n")
     @Override
@@ -26,14 +25,12 @@ public class Resultados extends AppCompatActivity {
         tv1 = findViewById(R.id.votosc1);
         tv2 = findViewById(R.id.votosc2);
         tv3 = findViewById(R.id.votosc3);
-        tv4 = findViewById(R.id.votosc4);
 
         salir = findViewById(R.id.botonsalir);
 
         tv1.setText("Votos: " + globales.candidato1);
         tv2.setText("Votos: " + globales.candidato2);
         tv3.setText("Votos: " + globales.candidato3);
-        tv4.setText("Votos: " + globales.candidato4);
 
         salir.setOnClickListener(new View.OnClickListener() {
             @Override

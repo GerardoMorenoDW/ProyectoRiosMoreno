@@ -7,5 +7,4 @@ public class globales {
     public static int candidato1 = 0;
     public static int candidato2 = 0;
     public static int candidato3 = 0;
-    public static int candidato4 = 0;
 }
