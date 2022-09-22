@@ -4,4 +4,12 @@
     <string name="iniciar_sesion">Iniciar sesion</string>
     <string name="cedula">Cedula</string>
     <string name="ingresar">Ingresar</string>
+    <string name="vote_por_su_candidato">Vote por su candidato</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="cedulaxd">Cedula</string>
+    <string name="candidato_1">Candidato 1</string>
+    <string name="candidato_2">Candidato 2</string>
+    <string name="candidato_3">Candidato 3</string>
+    <string name="candidato_4">Candidato 4</string>
+    <string name="votar">Votar</string>
 </resources>
