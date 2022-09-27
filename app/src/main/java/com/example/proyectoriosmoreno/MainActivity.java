@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
                     if (cedula.getText().toString().equals(globales.vectorCedulas[i])) {
                         flag = true;
                         num = i;
-                        globales.vectorCedulas[i] = "d51a6d51as6df56dfa165sda1";
+                        globales.vectorCedulas[i] = null;
 
                         break;
                     }
