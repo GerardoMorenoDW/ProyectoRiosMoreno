@@ -52,6 +52,9 @@ public class Votacion extends AppCompatActivity {
             case R.id.rb3:
                 globales.candidato3 = globales.candidato3 + 1;
                 break;
+            case R.id.rb4:
+                globales.candidato4 = globales.candidato4 + 1;
+                break;
 
         }
     }
